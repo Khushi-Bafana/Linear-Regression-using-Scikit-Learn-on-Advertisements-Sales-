@@ -1,5 +1,5 @@
 
-# 🚀 Linear Regression using Scikit-Learn
+# Linear Regression using Scikit-Learn
 
 ## Overview
 This Jupyter Notebook demonstrates the implementation of Linear Regression using Scikit-Learn. The project utilizes the Advertising Budget and Sales dataset to analyze the relationship between advertising expenditures across different media channels and the corresponding sales figures. The notebook covers essential steps including data preprocessing, model training, evaluation, and visualization, ensuring a hands-on learning experience for both beginners and experts.
